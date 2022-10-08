@@ -3,7 +3,7 @@ import turtle
 wn = turtle.Screen()
 wn.title("Amogus")
 wn.bgcolor("black")
-wn.setup(width=601, height=800)
+wn.setup(width=602, height=800)
 wn.tracer(0)
 
 score_a = 0
